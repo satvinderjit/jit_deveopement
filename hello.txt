@@ -1,6 +1,5 @@
 hello  git
-this is git testing
-this is git testing
+Developer mode
 this is git testing
 settings
 modify
